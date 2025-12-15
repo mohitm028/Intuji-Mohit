@@ -48,6 +48,8 @@ Approximately 4.5 hours
 
 ## Known Issues
 
+The main issues as a developer is on how the whole work is done in single commit, due to the limited time period, tried to finish as fast as possible, due to which commit are not done on regular interval or feature wise.
+
 - The checkout button doesn't have any working function
 - UI flows through the search bar
 - Modal can be open to confirm the deletion, instead of alert button
@@ -59,4 +61,5 @@ Approximately 4.5 hours
 - No real authentication required
 - Tax rate fixed at 10%
 - Using mock data for cart operations
+
 # Intuji-Mohit
